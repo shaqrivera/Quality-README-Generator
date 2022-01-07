@@ -60,7 +60,7 @@ function generateMarkdown(answers){
   
   If you have any questions, please submit inquiries to ${answers.emailAddress}.
   
-  ##License
+  ## License
   This project is using the ${answers.license}. For more information, refer to following link.
     [${answers.license}](${link})
   ---`
