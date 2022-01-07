@@ -24,7 +24,7 @@
   
   If you have any questions, please submit inquiries to shaq.rivera@gmail.com.
   
-  ##License
+  ## License
   This project is using the MIT License. For more information, refer to following link.
     [MIT License](https://spdx.org/licenses/MIT.htm)
   ---
