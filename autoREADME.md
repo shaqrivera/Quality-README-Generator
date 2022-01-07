@@ -1,44 +1,30 @@
-# ${project-title}
-## Description
-${description}
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-## Installation
-${install-instructions}
-## Usage
-${usage-instructions}
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-## Credits
-${credits}
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well.
-## License
-MIT License
-
-Copyright (c) [year] [fullname]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
----
+![license badge](https://img.shields.io/badge/license-MIT-blue)
+  # Quality README Generator by Shaquille
+  ## Description
+  This project uses Node.js and inquirer to create a dynamic README file based on a user's input through their terminal.
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  - [License](#license)
+  ## Installation
+  First install Node.js [Link to install Node.js](https://nodejs.org/en/download/). Then initialize NPM by using the terminal command 'npm init -y'. Finally, install inquirer using 'npm install inquirer'. That's it! You're all set to run the README Generator.
+  ## Usage
+  Once the required dependencies are installed, simply use the terminal command 'node index.js' in the main directory to initialize the generator.
+  
+  ## Contributing
+  Anybody can use this generator, and modify it.
+  ## Tests
+  After running this application you should recieve the message 'Success!' in your terminal. There should be a file in the main directory named autoREADME.md.
+  
+  ## Questions
+  Github username : Shaqrivera
+  
+  If you have any questions, please submit inquiries to shaq.rivera@gmail.com.
+  
+  ##License
+  This project is using the MIT License. For more information, refer to following link.
+    [MIT License](https://spdx.org/licenses/MIT.htm)
+  ---
