@@ -1,15 +1,15 @@
 
 const renderLicenseBadge = function (answers){
     if (answers.license === 'GNU General Public License v3.0'){
-      let badge = 'GPL';
+      let badge = answers.license.replaceAll(' ','_');
       return badge
     }
     else if (answers.license === 'MIT License'){
-      let badge ='MIT';
+      let badge = answers.license.replaceAll(' ','_');
       return badge
     }
     else {
-      let badge = 'Apache';
+      let badge = answers.license.replaceAll(' ','_');
       return badge
     }
 }
