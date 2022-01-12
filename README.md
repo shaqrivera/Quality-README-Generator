@@ -10,11 +10,11 @@
   - [Questions](#questions)
   - [License](#license)
   ## Installation
-  First install Node.js [Link to install Node.js](https://nodejs.org/en/download/). Finally, install required dependencies using 'npm i'. That's it! You're all set to run the README Generator.
+  First install Node.js <a href="https://nodejs.org/en/download/" target="_blank">Link to install Node.js</a>
+ . Finally, install required dependencies using 'npm i'. That's it! You're all set to run the README Generator.
   ## Usage
   Once the required dependencies are installed, simply use the terminal command 'node index.js' in the main directory to initialize the generator.
-  [Video Demonstration](https://drive.google.com/file/d/1M2rVjMBbsWpmj5ug1NZQjRf5ODFtbopT/view?usp=sharing)
-  
+  <a href="https://drive.google.com/file/d/1M2rVjMBbsWpmj5ug1NZQjRf5ODFtbopT/view?usp=sharing" target="_blank">Video Demonstration</a>
   ## Contributing
   Anybody can use this generator, and modify it.
   ## Tests
