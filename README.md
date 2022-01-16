@@ -18,7 +18,7 @@
   ## Contributing
   Anybody can use this generator, and modify it.
   ## Tests
-  After running this application you should recieve the message 'Success!' in your terminal. There should be a file in the main directory named autoREADME.md.
+  After running this application you should receive the message 'Success!' in your terminal. There should be a file in the main directory named autoREADME.md.
   
   ## Questions
   Github username : Shaqrivera
