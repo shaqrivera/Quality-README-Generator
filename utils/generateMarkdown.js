@@ -56,9 +56,9 @@ function generateMarkdown(answers){
   ${answers.testInstructions}
   
   ## Questions
-  Github username : ${answers.githubUsername}
+  Github username : <a href="https://github.com/${answers.githubUsername}">${answers.githubUsername}</a>
   
-  If you have any questions, please submit inquiries to ${answers.emailAddress}.
+  If you have any questions, please submit inquiries to <a href="mailto:${answers.emailAddress}">${answers.emailAddress}</a>.
   
   ## License
   This project is using the ${answers.license}. For more information, refer to following link.
