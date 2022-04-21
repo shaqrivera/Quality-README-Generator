@@ -1,5 +1,9 @@
 ![license badge](https://img.shields.io/badge/license-MIT-blue)
   # Quality README Generator by Shaquille
+  
+  <img width="770" alt="Screen Shot 2022-04-21 at 1 06 27 PM" src="https://user-images.githubusercontent.com/90933707/164513846-693927e7-1642-4dc9-aba7-397605c69a13.png">
+
+  
   ## Description
   This project uses Node.js and inquirer to create a dynamic README file based on a user's input through their terminal.
   ## Table of Contents
